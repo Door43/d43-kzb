@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzb:home|Door43 (kzb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzb|d43-kzb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzb/archive/master.zip|d43-kzb.zip]]
+
+**Recent Changes**
+{{changes>ns = kzb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzb|Ethnologue data]]
+
